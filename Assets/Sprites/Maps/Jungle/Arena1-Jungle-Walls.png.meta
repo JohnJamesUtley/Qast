@@ -1,0 +1,607 @@
+fileFormatVersion: 2
+guid: 64d102306aa44ec44a8d66b91a3137b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1111245265259890271
+    second: Arena1-Jungle-Walls_0
+  - first:
+      213: -470018441167683491
+    second: Arena1-Jungle-Walls_1
+  - first:
+      213: -2620924013940741554
+    second: Arena1-Jungle-Walls_2
+  - first:
+      213: 3462750053425039406
+    second: Arena1-Jungle-Walls_3
+  - first:
+      213: -1742719327820666682
+    second: Arena1-Jungle-Walls_4
+  - first:
+      213: 8562677921829197554
+    second: Arena1-Jungle-Walls_5
+  - first:
+      213: 7551169883923908884
+    second: Arena1-Jungle-Walls_6
+  - first:
+      213: 8826846378443583109
+    second: Arena1-Jungle-Walls_7
+  - first:
+      213: -3567169441592518457
+    second: Arena1-Jungle-Walls_8
+  - first:
+      213: -3415281892134564637
+    second: Arena1-Jungle-Walls_9
+  - first:
+      213: -5093522270728558298
+    second: Arena1-Jungle-Walls_10
+  - first:
+      213: 6999031214913566356
+    second: Arena1-Jungle-Walls_11
+  - first:
+      213: -9000541380939597123
+    second: Arena1-Jungle-Walls_12
+  - first:
+      213: 2031935180087149632
+    second: Arena1-Jungle-Walls_13
+  - first:
+      213: 2229212058622853200
+    second: Arena1-Jungle-Walls_14
+  - first:
+      213: -4289294942892477035
+    second: Arena1-Jungle-Walls_15
+  - first:
+      213: 7604559053278158453
+    second: Arena1-Jungle-Walls_16
+  - first:
+      213: 3829567965159719322
+    second: Arena1-Jungle-Walls_17
+  - first:
+      213: 89699829838291619
+    second: Arena1-Jungle-Walls_18
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arena1-Jungle-Walls_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 275
+        height: 2622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d893716c2fc9964b92fdbb1c00f78ec
+      internalID: -1111245265259890271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arena1-Jungle-Walls_1
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 0
+        width: 278
+        height: 2622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d5a63f7844d854480826b943cfc2a0
+      internalID: -470018441167683491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arena1-Jungle-Walls_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2622
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b492f76eb03d40408db0ed950d2a2c2
+      internalID: -2620924013940741554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arena1-Jungle-Walls_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2386
+        width: 2622
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ef1c029c16b3c4d9d05c8f25a3671a
+      internalID: 3462750053425039406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arena1-Jungle-Walls_4
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1745
+        width: 634
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844c86fc5f067ef40b3e4f9c238de95c
+      internalID: -1742719327820666682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arena1-Jungle-Walls_5
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1734
+        width: 612
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8444528bfde7753418bec613196e15f6
+      internalID: 8562677921829197554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arena1-Jungle-Walls_6
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1736
+        width: 686
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b780ba064fad5da4a831e74ce797f04a
+      internalID: 7551169883923908884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arena1-Jungle-Walls_7
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1059
+        width: 590
+        height: 599
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a48ee2961d7c24cbf7fab7006b0fc4
+      internalID: 8826846378443583109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arena1-Jungle-Walls_8
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1120
+        width: 108
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cd32787d1baf9499f5740b4400e54d
+      internalID: -3567169441592518457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arena1-Jungle-Walls_9
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1211
+        width: 625
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac7278e827a34c428fc6a718f402975
+      internalID: -3415281892134564637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arena1-Jungle-Walls_10
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1050
+        width: 211
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bae8a2db82d9184f9dbb1aa7c345be7
+      internalID: -5093522270728558298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arena1-Jungle-Walls_11
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 1441
+        width: 135
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2a5dbe89babde40915f98a080ea185
+      internalID: 6999031214913566356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arena1-Jungle-Walls_12
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 1046
+        width: 623
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c051a607853db7b41a385ce32a9e8058
+      internalID: -9000541380939597123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arena1-Jungle-Walls_13
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1398
+        width: 220
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab90f8ad3888dc45aa3c4fa44a63cb8
+      internalID: 2031935180087149632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arena1-Jungle-Walls_14
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 317
+        width: 419
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34c6cc0884f7d44992d59112f355b13
+      internalID: 2229212058622853200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arena1-Jungle-Walls_15
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 473
+        width: 239
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e694237da5c42e4428ce31b32d296a6f
+      internalID: -4289294942892477035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arena1-Jungle-Walls_16
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 883
+        width: 174
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afd46052d4f22d44bfa35f8950ceaa8
+      internalID: 7604559053278158453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arena1-Jungle-Walls_17
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 351
+        width: 616
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb568350fd3a81448b0af7e65e1b6d7
+      internalID: 3829567965159719322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arena1-Jungle-Walls_18
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 351
+        width: 653
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a7e25a1bf146945bbcd9bee30d8489
+      internalID: 89699829838291619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
